@@ -1,0 +1,23 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+    background-color: #151a1f;
+    color: ghostwhite;
+    padding: 20px;
+}
+.header h1{
+  font-size: 35px;
+  font-weight: 700;
+}
+.header-btn{
+    background-color: #E9081F;
+    color: #fff;
+    padding: 10px 30px;
+    border: none;
+    border-radius: 2px;
+    cursor: pointer;
+}
+.home-link{
+    text-decoration: none;
+    color: ghostwhite;
+}
